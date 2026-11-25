@@ -1,9 +1,7 @@
 # SOD gene framework
 
 Code for the septo-optic dysplasia (SOD) gene framework and Gene Ontology (GO) enrichment
-analysis in:
-
-> Beheshti S, et al. *[manuscript title]*. Submitted to *HGG Advances* (2026).
+analysis.
 
 SOD is diagnosed when at least two of three features are present: optic nerve hypoplasia
 (ONH), pituitary involvement, and midline brain defects. This repository builds a framework
@@ -158,10 +156,6 @@ runs both and `compare_runs.py` lists the differences.
 
 Analysis code was written and edited with the help of Claude (Anthropic) and reviewed by the
 authors.
-
-## Citation
-
-If you use this code, please cite the paper above.
 
 ## Contact
 
