@@ -1,0 +1,17 @@
+module,term,Reported SOD genes,Reported SOD genes_n,Full framework,Full framework_n,All three features,All three features_n,ONH + midline,ONH + midline_n,Pituitary + midline,Pituitary + midline_n
+Forebrain and pituitary development,pituitary gland development,0.00034842709065992206,4,0.0012957302623431122,5,0.00028724789147328324,4,1.0,0,1.0,1
+Forebrain and pituitary development,diencephalon development,0.0031209940503388943,4,0.0158874645491371,5,0.0025511482726538917,4,1.0,0,1.0,1
+Forebrain and pituitary development,forebrain development,0.00960388946532514,6,0.0004613830529595834,14,2.0961101414285252e-05,9,1.0,2,0.9760697802965195,3
+Forebrain and pituitary development,endocrine system development,0.022358572566620084,4,0.0011473108969048222,9,0.002938328238615556,5,1.0,2,0.9760697802965195,2
+Hedgehog signaling,smoothened signaling pathway,0.05277127935689734,4,4.798753819819005e-06,14,0.012778176577228755,5,1.0,2,0.00022210429126201875,7
+Hedgehog signaling,regulation of smoothened signaling pathway,0.024029422394943004,4,3.89708258942887e-05,11,0.04786881416730076,4,1.0,2,0.004291126638389534,5
+Axis and left-right patterning,axis specification,0.3671984786422138,2,0.00042761805585263084,8,0.9876120231431978,2,1.0,1,0.0008148494458976921,5
+Axis and left-right patterning,nodal signaling pathway,1.0,1,0.01723160740839793,4,1.0,0,1.0,0,0.00038776193029962773,4
+Axis and left-right patterning,determination of left/right symmetry,0.8854465826412865,2,0.010916414529529987,9,1.0,0,1.0,1,0.00022210429126201875,7
+Axis and left-right patterning,regionalization,0.07523275558671955,5,2.3162865361358122e-05,18,0.2585799939266293,5,1.0,2,6.45288552583796e-05,10
+Dystroglycan O-mannosylation,protein O-linked glycosylation via mannose,1.0,0,0.00034328978305023114,6,1.0,0,2.715490996531315e-05,6,1.0,0
+Dystroglycan O-mannosylation,protein O-linked glycosylation,1.0,0,0.0016846864601758123,10,1.0,0,0.00010963471022782353,9,1.0,1
+Axon guidance,neuron projection guidance,0.016801700020062572,5,0.020286625804989297,9,0.8681169532349723,3,1.0,3,1.0,2
+Microtubule / chromatid cohesion,sister chromatid cohesion,1.0,0,0.02667069190719395,6,1.0,2,1.0,2,0.6598978456767755,2
+Microtubule / chromatid cohesion,microtubule cytoskeleton organization,0.35742080924204983,5,0.0405597889794737,18,1.0,2,1.0,9,1.0,5
+mRNA splicing regulation,"regulation of mRNA splicing, via spliceosome",1.0,1,0.014273533147671408,6,0.9876120231431978,2,1.0,3,1.0,1

@@ -1,0 +1,38 @@
+domain,hpo_id,hpo_name,n_genes_annotated
+midline,HP:0001273,Abnormal corpus callosum morphology,113
+midline,HP:0007375,Abnormal septum pellucidum morphology,17
+midline,HP:0001331,Absent septum pellucidum,61
+midline,HP:0001274,Agenesis of corpus callosum,349
+midline,HP:0007370,Aplasia/Hypoplasia of the corpus callosum,103
+midline,HP:0006989,Dysplastic corpus callosum,47
+midline,HP:0006849,Hypodysplasia of the corpus callosum,1
+midline,HP:0002079,Hypoplasia of the corpus callosum,488
+midline,HP:0030283,Partial absence of the septum pellucidum,2
+midline,HP:0001338,Partial agenesis of the corpus callosum,68
+midline,HP:0100842,Septo-optic dysplasia,24
+midline,HP:0200012,Short corpus callosum,12
+midline,HP:0033725,Thin corpus callosum,188
+optic,HP:0008058,Aplasia/Hypoplasia of the optic nerve,2
+optic,HP:0007766,Optic disc hypoplasia,20
+optic,HP:0012521,Optic nerve aplasia,7
+optic,HP:0000609,Optic nerve hypoplasia,117
+optic,HP:0100842,Septo-optic dysplasia,24
+pituitary,HP:0012503,Abnormal pituitary gland morphology,4
+pituitary,HP:0034977,Abnormal pituitary stalk morphology,1
+pituitary,HP:0011751,Abnormal posterior pituitary morphogenesis,0
+pituitary,HP:0012504,Abnormal size of pituitary gland,1
+pituitary,HP:0011747,Abnormality of the anterior pituitary,0
+pituitary,HP:0034976,Absent pituitary stalk,4
+pituitary,HP:0010626,Anterior pituitary agenesis,11
+pituitary,HP:0010625,Anterior pituitary dysgenesis,1
+pituitary,HP:0010627,Anterior pituitary hypoplasia,39
+pituitary,HP:0410279,Atrophic pituitary gland,1
+pituitary,HP:0012731,Ectopic anterior pituitary gland,11
+pituitary,HP:0011755,Ectopic posterior pituitary,23
+pituitary,HP:0040075,Hypopituitarism,28
+pituitary,HP:0034978,Interrupted pituitary stalk,1
+pituitary,HP:0000871,Panhypopituitarism,31
+pituitary,HP:0011756,Posterior pituitary agenesis,3
+pituitary,HP:0011753,Posterior pituitary dysgenesis,0
+pituitary,HP:0011757,Posterior pituitary hypoplasia,2
+pituitary,HP:0012506,Small pituitary gland,17

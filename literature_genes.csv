@@ -1,0 +1,30 @@
+gene,ncbi_gene_id,in_original_27,include_corrected,report_group,primary_citation,citation_verified,published_SOD_features,evidence_note
+HESX1,8820,yes,yes,Single-gene report,Dattani et al. 1998 (to confirm from Pasca et al. 2025),no,,Classic SOD gene; HPO-derived as well
+SOX2,6657,yes,yes,Single-gene report,Reis et al. 2022 Genes 13:1165,yes,SOD (de novo SOX2 in a family with clinical SOD),Classic SOD gene; HPO-derived as well
+SOX3,6658,yes,yes,Single-gene report,Primary citation to add (Pasca et al. 2025 Table 2),no,,Classic SOD gene; HPO-derived as well
+OTX2,5015,yes,yes,Single-gene report,Primary citation to add (Pasca et al. 2025 Table 2),no,,Classic SOD gene; HPO-derived as well
+SHH,6469,yes,yes,Single-gene report,Reis et al. 2022 Genes 13:1165,yes,SOD (de novo SHH in a family with clinical SOD),HPO gives no optic annotation; published case is an SOD diagnosis
+ARID1A,8289,yes,yes,Single-gene report,Reis et al. 2022 Genes 13:1165,yes,ONH; absent septum pellucidum; corpus callosum absent,De novo nonsense variant
+BRAF,673,yes,yes,Single-gene report,Gualtieri et al. (to confirm from Pasca et al. 2025),no,,SOD with RASopathy (gain of function)
+FLNA,2316,yes,yes,Single-gene report,Fernandez-Marmiesse et al. 2019 BMC Med Genet,yes,ONH; corpus callosum hypoplasia; neonatal hypoglycemia,Hemizygous intronic deletion with aberrant splicing
+SON,6651,yes,yes,Single-gene report,Pasca et al. 2023,yes,Partial agenesis of septum pellucidum and corpus callosum; mild optic nerve and chiasm hypoplasia; small pituitary gland,HPO gives no pituitary annotation; published case documents a small pituitary
+SMCHD1,23347,yes,yes,Single-gene report,Kinjo et al. (to confirm from Pasca et al. 2025),no,ONH; combined pituitary hormone deficiency,
+NR2F1,7025,yes,yes,Single-gene report,Gazdagh et al. (to confirm from Pasca et al. 2025),no,Absent septum pellucidum; truncated corpus callosum rostrum; slender infundibulum; optic atrophy,
+TAX1BP3,30851,yes,yes,Single-gene report,Reinstein et al. (to confirm from Pasca et al. 2025),no,Agenesis of corpus callosum; absent septum pellucidum; optic disc hypoplasia in one of two sibs,Homozygous missense; not in HPO file
+DNM1L,10059,yes,yes,Single-gene report,Primary citation to add (Pasca et al. 2025 Table 2),no,,
+MT-CYB,4519,yes,yes,Single-gene report,Primary citation to add (Pasca et al. 2025 Table 2),no,,Mitochondrial gene
+TBC1D32,221322,yes,yes,Single-gene report,Primary citation to add (Pasca et al. 2025 Table 2),no,,
+TUBA1A,7846,yes,yes,Single-gene report,Reyes-Capo et al. 2018,yes,Agenesis of corpus callosum; severe ONH,Likely pathogenic heterozygous variant
+TUBB2B,347733,yes,yes,Single-gene report,Beheshti et al. 2026 HGG Adv 7:100654,yes,Agenesis of corpus callosum; ONH; panhypopituitarism,HPO gives no pituitary annotation; published case documents panhypopituitarism (Individual 2 of this study)
+FGFR1,2260,yes,yes,Single-gene report,Raivio et al. (to confirm from Pasca et al. 2025),no,,Kallmann/CPHD/SOD overlap
+FGF8,2253,yes,yes,Single-gene report,McCabe et al. 2011 J Clin Endocrinol Metab 96:E1709,yes,Absent corpus callosum; hypoplastic optic nerves (heterozygous p.Q216E),HPO gives no optic annotation; published case documents ONH
+TUBB,203068,yes,yes,Single-gene report,Primary citation to add (Pasca et al. 2025 Table 2),no,,
+ANOS1,3730,yes,yes,Uncertain SOD association,Primary citation to add (Pasca et al. 2025 Table 2),no,,Uncertain association in source review
+PROKR2,128674,yes,yes,Uncertain SOD association,McCabe et al. 2013 J Clin Endocrinol Metab 98:E547,yes,SOD/hypopituitarism,Qualified: an SOD patient was heterozygous for p.L173R while his unaffected mother was homozygous; authors conclude variants unlikely to act in isolation
+TCF7L1,83439,yes,yes,Uncertain SOD association,Primary citation to add (Pasca et al. 2025 Table 2),no,,Not in HPO file
+WDR11,55717,yes,yes,Uncertain SOD association,Shima et al. 2014 ESPE abstract (Horm Res Paediatr 82 Suppl 1),yes,Pituitary hypoplasia; agenesis of anterior corpus callosum; deficient optic chiasm,Qualified: conference abstract only; heterozygous p.A1076T; family segregation not reported
+ENG,2022,yes,yes,Uncertain SOD association,Kawano-Matsuda et al. (to confirm from Pasca et al. 2025),no,ONH; pituitary hypoplasia and dysfunction,Maternally inherited; hereditary hemorrhagic telangiectasia
+PAX3,5077,yes,yes,Uncertain SOD association,Primary citation to add (Pasca et al. 2025 Table 2),no,,Uncertain association in source review
+GLI2,2736,yes,yes,Uncertain SOD association,Paulo et al. (to confirm from Pasca et al. 2025),no,SOD with combined pituitary hormone deficiency,Heterozygous p.Leu761Phe also present in unaffected mother
+VAX1,11023,no,yes,Single-gene report,Slavotinek et al. 2012 Hum Mutat 33:364-368,yes,Small optic nerves; corpus callosum agenesis (homozygous p.Arg152Ser),Added Nov 2026: described in Pasca et al. 2025 but missing from the original 27
+COL4A1,1282,no,yes,Single-gene report,Grego et al. 2019 Case Rep Ophthalmol 10:424-430; Patel et al. 2023,yes,ONH; almost complete corpus callosum agenesis,Added Nov 2026; Patel et al. 2023 report bilateral ONH concerning for SOD with callosal dysgenesis

@@ -1,0 +1,43 @@
+{
+ "Reported SOD genes": {
+  "n_genes": 29,
+  "n_tested": 27,
+  "background": 5083,
+  "n_sig": 20,
+  "not_testable": 2
+ },
+ "Full framework": {
+  "n_genes": 155,
+  "n_tested": 149,
+  "background": 5083,
+  "n_sig": 62,
+  "not_testable": 6
+ },
+ "All three features": {
+  "n_genes": 25,
+  "n_tested": 24,
+  "background": 5083,
+  "n_sig": 8,
+  "not_testable": 1
+ },
+ "ONH + midline": {
+  "n_genes": 66,
+  "n_tested": 63,
+  "background": 5083,
+  "n_sig": 4,
+  "not_testable": 3
+ },
+ "Pituitary + midline": {
+  "n_genes": 45,
+  "n_tested": 45,
+  "background": 5083,
+  "n_sig": 49,
+  "not_testable": 0
+ },
+ "n_sig_terms": 62,
+ "n_clusters": 9,
+ "module": 64,
+ "broad": 36,
+ "none": 49,
+ "untested": 6
+}

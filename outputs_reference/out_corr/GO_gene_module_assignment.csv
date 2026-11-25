@@ -1,0 +1,65 @@
+gene,assigned_module,all_modules
+ANOS1,Axon guidance,Axon guidance
+ARMC9,Hedgehog signaling,Hedgehog signaling
+B3GALNT2,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+CDON,Hedgehog signaling,Hedgehog signaling
+CRIPTO,Axis and left-right patterning,Axis and left-right patterning
+CRPPA,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+CTNNB1,Microtubule / chromatid cohesion,Dystroglycan O-mannosylation;Microtubule / chromatid cohesion
+DISP1,Hedgehog signaling,Hedgehog signaling
+DLL1,Axis and left-right patterning,Axis and left-right patterning
+DYRK1A,mRNA splicing regulation,Microtubule / chromatid cohesion;mRNA splicing regulation
+ENG,Axis and left-right patterning,Axis and left-right patterning
+FKRP,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+FKTN,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+FLNA,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+FOXA2,Axis and left-right patterning,Axis and left-right patterning
+FOXH1,Axis and left-right patterning,Axis and left-right patterning
+GAS1,Hedgehog signaling,Hedgehog signaling
+GLI2,Forebrain and pituitary development,Axon guidance;Forebrain and pituitary development;Hedgehog signaling
+GLI3,Hedgehog signaling,Hedgehog signaling
+GPR161,Hedgehog signaling,Forebrain and pituitary development;Hedgehog signaling
+HESX1,Forebrain and pituitary development,Forebrain and pituitary development
+HNRNPK,mRNA splicing regulation,mRNA splicing regulation
+HNRNPU,mRNA splicing regulation,Microtubule / chromatid cohesion;mRNA splicing regulation
+KIF14,Forebrain and pituitary development,Forebrain and pituitary development
+LARGE1,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+MAU2,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+MEF2C,Axis and left-right patterning,Axis and left-right patterning
+NDE1,Forebrain and pituitary development,Forebrain and pituitary development;Microtubule / chromatid cohesion
+NODAL,Axis and left-right patterning,Axis and left-right patterning
+OTX2,Axis and left-right patterning,Axis and left-right patterning;Axon guidance;Forebrain and pituitary development;Hedgehog signaling
+PAX6,Forebrain and pituitary development,Forebrain and pituitary development
+PLXNA1,Axon guidance,Axon guidance
+POGZ,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+POMGNT1,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+POMK,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+POMT1,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+POMT2,Dystroglycan O-mannosylation,Dystroglycan O-mannosylation
+PPP2R1A,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+PTBP1,mRNA splicing regulation,mRNA splicing regulation
+PTCH1,Axis and left-right patterning,Axis and left-right patterning;Hedgehog signaling
+PUF60,mRNA splicing regulation,mRNA splicing regulation
+ROBO1,Axon guidance,Axon guidance;Forebrain and pituitary development
+RTTN,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+SETD2,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+SHH,Axis and left-right patterning,Axis and left-right patterning;Axon guidance;Forebrain and pituitary development;Hedgehog signaling
+SIX3,Forebrain and pituitary development,Axis and left-right patterning;Forebrain and pituitary development
+SMC1A,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+SON,mRNA splicing regulation,Microtubule / chromatid cohesion;mRNA splicing regulation
+SOX2,Forebrain and pituitary development,Forebrain and pituitary development
+SOX3,Forebrain and pituitary development,Forebrain and pituitary development
+STAG2,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+STIL,Axis and left-right patterning,Axis and left-right patterning;Forebrain and pituitary development;Hedgehog signaling;Microtubule / chromatid cohesion
+SUFU,Hedgehog signaling,Hedgehog signaling
+TMEM67,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+TUBA1A,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+TUBA8,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+TUBB,Microtubule / chromatid cohesion,Microtubule / chromatid cohesion
+TUBB2B,Axon guidance,Axon guidance;Microtubule / chromatid cohesion
+TUBB3,Axon guidance,Axon guidance;Microtubule / chromatid cohesion
+VANGL2,Axis and left-right patterning,Axis and left-right patterning;Axon guidance
+WDR11,Hedgehog signaling,Hedgehog signaling
+WT1,Axis and left-right patterning,Axis and left-right patterning
+ZIC1,Hedgehog signaling,Hedgehog signaling
+ZSWIM6,Forebrain and pituitary development,Forebrain and pituitary development

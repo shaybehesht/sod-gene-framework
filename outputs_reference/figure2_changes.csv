@@ -1,0 +1,16 @@
+Panel,GO term,Column,Previous,Corrected,What to change
+A (column header),—,Reported SOD genes,n = 27,n = 29,Header n
+A (column header),—,All three features,n = 32,n = 25,Header n
+A (column header),—,ONH + midline,n = 71,n = 66,Header n
+A (column header),—,Pituitary + midline,n = 40,n = 45,Header n
+A,forebrain development,All three features,"FDR 2.10e-05, n = 9","FDR 5.54e-04, n = 7",number 9 → 7; colour bin 4–5 → 3–4
+A,smoothened signaling pathway,Reported SOD genes,"FDR 5.28e-02, n = 4","FDR 4.98e-02, n = 4",becomes significant (add colour and number)
+A,smoothened signaling pathway,All three features,"FDR 1.28e-02, n = 5","FDR 1.00e+00, n = 2","no longer significant (grey, remove number)"
+A,smoothened signaling pathway,Pituitary + midline,"FDR 2.22e-04, n = 7","FDR 5.07e-05, n = 8",number 7 → 8; colour bin 3–4 → 4–5
+A,regulation of smoothened signaling pathway,All three features,"FDR 4.79e-02, n = 4","FDR 1.00e+00, n = 2","no longer significant (grey, remove number)"
+A,axis specification,Pituitary + midline,"FDR 8.15e-04, n = 5","FDR 1.48e-03, n = 5",colour bin 3–4 → 2–3
+A,regionalization,Pituitary + midline,"FDR 6.45e-05, n = 10","FDR 3.32e-05, n = 11",number 10 → 11
+A,protein O-linked glycosylation,ONH + midline,"FDR 1.10e-04, n = 9","FDR 5.51e-05, n = 9",colour bin 3–4 → 4–5
+B (bar label),—,Hedgehog signaling,FDR 4.8e-6,FDR 2.4e-6,label FDR; bars unchanged
+B (bar label),—,Microtubule / chromatid cohesion,FDR 2.7e-2,FDR 2.6e-2,label FDR; bars unchanged
+B (bar label),—,Dystroglycan O-mannosylation,FDR 1.7e-3 (parent term),"FDR 3.4e-4 (lowest term, as Methods state) or 1.6e-3 (parent term, as before)",pre-existing: figure used the parent term; Methods say lowest FDR
